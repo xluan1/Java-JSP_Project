@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/home/apparel.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/home/electronics.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/home/items.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/share/subscribe.jsp=UTF-8
+encoding//src/controllers/CartController.java=UTF-8
+encoding//src/controllers/LoginController.java=UTF-8
+encoding//src/controllers/RegisterController.java=UTF-8
